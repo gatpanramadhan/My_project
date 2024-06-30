@@ -110,7 +110,8 @@
             ?>
             <div class="card custom-card">
                 <div style="padding-top:34px; padding-left:34px; text-align:center">
-                    <h3 style="color:white; text-shadow: 2px 2px 4px #000000;;">Search Available Bus Routes</h3>
+                    <h3 style="color:white; text-shadow: 2px 2px 4px #000000;;">Search Available Bus Routes Example :
+                        setu-klaten, Date 25 Juni 2024 :</h3>
                 </div>
             </div>
             <?php
